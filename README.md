@@ -270,7 +270,7 @@ Educational university project — free to use and modify for learning purposes.
 
 ## 📧 Contact
 **Ayesha Rauf** — [@ayesha189](https://github.com/ayesha189)  
-**Project Link**: [https://github.com/ayesha189/nyan-cat-vs-cheeseburger-game]
+**Project Link**: [https://github.com/ayesha189/Infinite-Rush-OOP-Oriented-Game]
 
 ---
 ## 📝 Assignment Details
