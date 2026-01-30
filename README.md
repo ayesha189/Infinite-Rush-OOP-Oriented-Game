@@ -223,55 +223,6 @@ game.AddObject(player);
 game.AddObject(enemy);
 ```
 
-## 🤝 Contributing
-
-This is an educational project. Students and educators are encouraged to:
-- Extend functionality
-- Add new game objects and behaviors
-- Improve documentation
-- Submit bug fixes
-- Create example projects
-
-## 📝 License
-
-This project is intended for educational purposes. Check with the course instructor regarding specific usage rights.
-
-## 📚 Additional Resources
-
-For comprehensive documentation and assignments:
-- See `Docs/TASKS-README.md` for student assignments
-- See `Docs/Lecture-FirstDesktopApp.md` for detailed lecture notes
-- Use `Docs/make-pdf.ps1` to generate PDF documentation (requires Pandoc)
-
-## 🎯 Learning Path
-
-### Week 1-2: Fundamentals
-- Understand the GameObject hierarchy
-- Learn about interfaces and their purpose
-- Implement basic collision detection
-
-### Week 3-4: Patterns
-- Explore the Strategy pattern through movement behaviors
-- Implement composition over inheritance
-- Create custom game objects
-
-### Week 5-6: Systems
-- Build a simple game using the framework
-- Implement scoring and game states
-- Add audio and visual effects
-
-### Week 7-8: Advanced
-- Optimize performance
-- Add advanced features (power-ups, levels)
-- Implement save/load functionality
-
-## 💡 Tips for Students
-
-1. **Start Simple**: Begin by modifying existing classes before creating new ones
-2. **Use Interfaces**: Practice designing with interfaces for flexibility
-3. **Debug Visually**: Use `g.DrawRectangle()` to visualize collision bounds
-4. **Test Incrementally**: Add one feature at a time and test thoroughly
-5. **Read the Code**: The best way to learn is by reading and understanding existing implementations
 
 ## 🐛 Troubleshooting
 
@@ -292,6 +243,22 @@ For comprehensive documentation and assignments:
 ## 🎓 Acknowledgments
 
 This framework is designed for teaching OOP principles in a practical, engaging context. It demonstrates industry-standard patterns and practices in game development while remaining accessible to students learning programming concepts.
+
+---
+
+
+## ✅ Learning Outcomes
+
+- [ ] Design a class hierarchy for a new game concept
+- [ ] Implement interfaces for polymorphic behavior
+- [ ] Apply at least 3 design patterns appropriately
+- [ ] Write SOLID-compliant code
+- [ ] Debug and optimize game performance
+- [ ] Create complete, playable game features
+- [ ] Document code and architecture decisions
+- [ ] Collaborate using version control
+- [ ] Review and improve peer code
+- [ ] Explain and justify design choices
 
 ---
 
