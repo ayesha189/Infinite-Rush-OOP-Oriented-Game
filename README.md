@@ -277,10 +277,10 @@ Educational university project — free to use and modify for learning purposes.
 
 **Course**: Object-Oriented Programming (OOP)  
 **Project Type**: Final Project  
----
 
-## ⭐ Support
 ---
+## ⭐ Support
+
 ⭐ **If you enjoyed playing this game or found the code helpful, please consider giving it a star!**
 
 🎮 **Happy Gaming!** 🍔🐱💨
